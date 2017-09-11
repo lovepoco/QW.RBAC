@@ -1,0 +1,2 @@
+1.ORM 选用轻量级 Dapper
+2.映射工具 选用 AutoMapper
