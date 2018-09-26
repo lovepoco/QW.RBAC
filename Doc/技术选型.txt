@@ -1,2 +1,2 @@
-1.ORM 选用轻量级 Dapper
-2.映射工具 选用 AutoMapper
+.net 4.0 + Chloe.Orm + AutoMapper + log4net
+测试使用mvc
