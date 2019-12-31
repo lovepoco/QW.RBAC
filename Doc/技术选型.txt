@@ -1,2 +1,2 @@
-.net 4.0 + Chloe.Orm + AutoMapper + log4net
+.net 4.0 + Freesql + AutoMapper + log4net
 测试使用mvc
